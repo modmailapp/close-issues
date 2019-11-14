@@ -10,6 +10,15 @@ Fill In the config file given at the releases page
   "issueTill": "14"
 }
 ```
+
 Above, issues from 10 - 14 will be closed, both inclusive
 
 Also create a label named `spam` before
+
+
+# Using Linux builds?
+
+Make the file executable before using this command -> 
+```
+chmod +x ./binary_here
+```
